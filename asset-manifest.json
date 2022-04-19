@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/layout-builder/static/css/main.e6c13ad2.css",
+    "main.js": "/layout-builder/static/js/main.fd8cdb38.js",
+    "index.html": "/layout-builder/index.html",
+    "main.e6c13ad2.css.map": "/layout-builder/static/css/main.e6c13ad2.css.map",
+    "main.fd8cdb38.js.map": "/layout-builder/static/js/main.fd8cdb38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd8cdb38.js"
+  ]
+}
